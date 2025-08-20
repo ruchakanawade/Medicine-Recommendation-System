@@ -108,10 +108,6 @@ The frontend is built using Bootstrap to provide a user-friendly interface. User
 - Flask
 
 
-## Contributing
+Author 
+Rucha Kanawade
 
-We welcome contributions! Please fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
